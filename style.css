@@ -1,0 +1,28 @@
+/*Selector {
+	Property: value;
+}*/
+
+/*h2{
+	color:red;
+	background-color: green;
+}*/
+
+body{
+	background-color: #5D5D56
+}
+
+header{
+	text-align: center;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+	font-size: 32px;
+}
+
+h2{
+	text-align: center;
+	color: #2B1D00; 
+}
+
